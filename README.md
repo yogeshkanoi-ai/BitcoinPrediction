@@ -1,5 +1,5 @@
 ## Loan-Approval-Prediction
-Predicts teh price of bitcoin
+Predicts the price of bitcoin using cucrrent data
 
 ## Model
 - Using FBProphet
