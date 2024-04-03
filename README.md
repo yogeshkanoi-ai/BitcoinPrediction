@@ -7,4 +7,4 @@ Predicts the price of bitcoin using current data
 
 ## Technologies:
 - Programming Language: Python
-- Libraries: Pandas, Scikit-learn, Matplotlib, Numpy
+- Libraries: Pandas, Scikit-learn, Matplotlib
