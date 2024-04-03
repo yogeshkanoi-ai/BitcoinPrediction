@@ -1,4 +1,4 @@
-## Loan-Approval-Prediction
+## Bitcoin Price-Prediction
 Predicts the price of bitcoin using current data
 
 ## Model
